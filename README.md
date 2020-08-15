@@ -2,7 +2,7 @@
 ## About
 
 
-- Text Utills is the website which is create using Django franework and utilize the text of user
+- Text Utills is the website which is create by using Django framework and utilize the text of user
 
 
 ## Built With
